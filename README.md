@@ -12,7 +12,7 @@ Biar makin akrab, ini profil singkat tentang gue yang nge-maintain repo ini:
 * **Umur / Pendidikan:** 15 Tahun / Pelajar 
 * **Tempat Tinggal:** Makassar, Indonesia
 * **Komunitas / Minat:** Linux & Android Modding Enthusiast
-* **Hubungi Gue:** Join atau pantau update terbaru di channel Telegram gue di `[Arsip Pul](t.me/pulsarchive)`
+* **Hubungi Gue:** Join atau pantau update terbaru di channel Telegram gue di [Arsip Pul](t.me/pulsarchive)
 
 > **⚠️ PENTING (BACA SEBELUM FLUSH):** 
 > Perlu dicatat bahwa **ALL INTEGRITY MODULE IS DEPRECATED**. 
