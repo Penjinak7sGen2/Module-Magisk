@@ -60,3 +60,8 @@ Jika lo mengalami masalah seperti *bootloop* setelah memasang salah satu modul, 
 ## 🚨 Disclaimer
 * **Do With Your Own Risk (DWYOR).** Gue gak bertanggung jawab atas kerusakan *hardware*, *bootloop*, *brick*, kehilangan data, atau alarm subuh lo gak bunyi akibat penggunaan modul di repo ini.
 * Pastikan lo paham cara kerja sistem Android modding sebelum melakukan eksekusi.
+
+### 📸 Screenshots
+![About Phone](aboutphone.jpg)
+![Root Manager Configuration](wildksu.jpg)
+![Module](module.jpg)
