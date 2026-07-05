@@ -9,10 +9,10 @@ Selamat datang di repository pribadi gue! Repository ini berfungsi sebagai tempa
 Biar makin akrab, ini profil singkat tentang gue yang nge-maintain repo ini:
 
 * **Nama / Nickname:** pul / penjinak7sgen2
-* **Umur / Pendidikan:** 15 Tahun / Pelajar (Grade 9 / Calon Siswa SMK Rekayasa Perangkat Lunak)
+* **Umur / Pendidikan:** 15 Tahun / Pelajar 
 * **Tempat Tinggal:** Makassar, Indonesia
-* **Komunitas / Minat:** Linux & Android Modding Enthusiast (Arch Linux User)
-* **Hubungi Gue:** Join atau pantau update terbaru di channel Telegram gue di `[Nama/Link Channel Telegram Lo Di Sini]`
+* **Komunitas / Minat:** Linux & Android Modding Enthusiast
+* **Hubungi Gue:** Join atau pantau update terbaru di channel Telegram gue di `[Arsip Pul](t.me/pulsarchive)`
 
 > **⚠️ PENTING (BACA SEBELUM FLUSH):** 
 > Perlu dicatat bahwa **ALL INTEGRITY MODULE IS DEPRECATED**. 
