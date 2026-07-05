@@ -2,16 +2,21 @@
 
 Selamat datang di repository pribadi gue! Repository ini berfungsi sebagai tempat penyimpanan digital sekaligus arsip personal untuk berbagai modul Android (Magisk/KSU) yang gue gunakan untuk optimasi, tweaking sistem, dan kebutuhan harian. 
 
+---
+
+## 👤 About Me / Maintainer
+
+Biar makin akrab, ini profil singkat tentang gue yang nge-maintain repo ini:
+
+* **Nama / Nickname:** pul / penjinak7sgen2
+* **Umur / Pendidikan:** 15 Tahun / Pelajar (Grade 9 / Calon Siswa SMK Rekayasa Perangkat Lunak)
+* **Tempat Tinggal:** Makassar, Indonesia
+* **Komunitas / Minat:** Linux & Android Modding Enthusiast (Arch Linux User)
+* **Hubungi Gue:** Join atau pantau update terbaru di channel Telegram gue di `[Nama/Link Channel Telegram Lo Di Sini]`
+
 > **⚠️ PENTING (BACA SEBELUM FLUSH):** 
 > Perlu dicatat bahwa **ALL INTEGRITY MODULE IS DEPRECATED**. 
 > Jangan gunakan modul integritas lama yang ada di sini untuk melewati Safetynet/Play Integrity terbaru. Silakan gunakan [Kaorios Toolbox by Wuang26](https://github.com/Wuang26/Kaorios-Toolbox) sebagai gantinya.
-
----
-
-## 🚀 Fitur & Tujuan Repository
-* **Personal Archive:** Menyimpan modul-modul andalan secara terpusat agar mudah di-download kapan saja setelah clean flash ROM.
-* **Daily Driven Tweaks:** Fokus pada modul yang meningkatkan performa gaming, kualitas audio, dan kustomisasi sistem tanpa merusak stabilitas harian.
-* **Pre-Tested Files:** Semua file yang ada di sini sudah melewati uji coba personal untuk meminimalisir risiko kegagalan sistem.
 
 ---
 
