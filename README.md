@@ -8,7 +8,7 @@ Selamat datang di repository pribadi gue! Repository ini berfungsi sebagai tempa
 
 Biar makin akrab, ini profil singkat tentang gue yang nge-maintain repo ini:
 
-* **Nama / Nickname:** pul / penjinak7sgen2
+* **Nama / Nickname:** Pul
 * **Umur / Pendidikan:** 15 Tahun / Pelajar 
 * **Tempat Tinggal:** Makassar, Indonesia
 * **Komunitas / Minat:** Linux & Android Modding Enthusiast
