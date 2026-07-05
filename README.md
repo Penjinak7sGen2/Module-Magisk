@@ -63,5 +63,7 @@ Jika lo mengalami masalah seperti *bootloop* setelah memasang salah satu modul, 
 
 ### 📸 Screenshots
 ![About Phone](aboutphone.jpg)
+
 ![Root Manager Configuration](wildksu.jpg)
+
 ![Module](module.jpg)
